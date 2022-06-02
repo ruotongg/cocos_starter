@@ -1,0 +1,63 @@
+2021-02-03T15:35:07.166Z - normal: Load ~/.CocosCreator/settings.json
+2021-02-03T15:35:07.172Z - normal: checking language setting...
+2021-02-03T15:35:07.172Z - normal: Language: zh
+2021-02-03T15:35:08.551Z - success: protocol editor-framework registered
+2021-02-03T15:35:08.551Z - success: protocol app registered
+2021-02-03T15:35:08.551Z - success: protocol theme registered
+2021-02-03T15:35:08.551Z - success: protocol profile registered
+2021-02-03T15:35:08.551Z - success: protocol packages registered
+2021-02-03T15:35:08.551Z - success: protocol unpack registerred
+2021-02-03T15:35:08.551Z - success: protocol disable-commonjs registerred
+2021-02-03T15:35:08.675Z - normal: connected!
+2021-02-03T15:35:08.677Z - normal: Check project C:\Cocos\tutorial-first-game\start_project
+2021-02-03T15:35:08.678Z - normal: Initializing Cocos2d
+2021-02-03T15:35:08.841Z - normal: Initializing Asset Database
+2021-02-03T15:35:08.864Z - success: protocol uuid registerred
+2021-02-03T15:35:08.864Z - success: protocol db registerred
+2021-02-03T15:35:08.864Z - success: protocol thumbnail registerred
+2021-02-03T15:35:08.864Z - normal: Loading editor/builtin packages
+2021-02-03T15:35:08.885Z - success: anysdk loaded
+2021-02-03T15:35:08.988Z - success: assets loaded
+2021-02-03T15:35:08.989Z - success: builder loaded
+2021-02-03T15:35:08.991Z - success: hierarchy loaded
+2021-02-03T15:35:08.993Z - success: inspector loaded
+2021-02-03T15:35:08.994Z - success: keystore loaded
+2021-02-03T15:35:08.996Z - success: node-library loaded
+2021-02-03T15:35:08.997Z - success: package-asset loaded
+2021-02-03T15:35:08.999Z - success: preferences loaded
+2021-02-03T15:35:09.007Z - success: project-importer loaded
+2021-02-03T15:35:09.009Z - success: project-settings loaded
+2021-02-03T15:35:09.010Z - success: ui-kit loaded
+2021-02-03T15:35:09.011Z - success: ui-grid loaded
+2021-02-03T15:35:09.014Z - success: scene loaded
+2021-02-03T15:35:09.015Z - success: sprite-editor loaded
+2021-02-03T15:35:09.016Z - success: store loaded
+2021-02-03T15:35:09.019Z - success: timeline loaded
+2021-02-03T15:35:09.019Z - normal: Loading builtin packages
+2021-02-03T15:35:09.021Z - success: asset-db-debugger loaded
+2021-02-03T15:35:09.022Z - success: code-editor loaded
+2021-02-03T15:35:09.022Z - success: color-picker loaded
+2021-02-03T15:35:09.024Z - success: console loaded
+2021-02-03T15:35:09.025Z - success: package-manager loaded
+2021-02-03T15:35:09.028Z - success: sdkbox loaded
+2021-02-03T15:35:09.030Z - success: tester loaded
+2021-02-03T15:35:09.031Z - success: ui-kit-preview-extra loaded
+2021-02-03T15:35:09.032Z - success: ui-kit-preview loaded
+2021-02-03T15:35:09.033Z - success: ui-tree loaded
+2021-02-03T15:35:09.678Z - normal: Initializing project C:\Cocos\tutorial-first-game\start_project
+2021-02-03T15:35:09.684Z - normal: Loading packages
+2021-02-03T15:35:09.687Z - normal: Watching packages
+2021-02-03T15:35:09.706Z - normal: Run Application
+2021-02-03T15:35:10.221Z - success: preview server running at http://localhost:7456
+2021-02-03T15:35:13.323Z - normal: 1.5.2
+2021-02-03T15:37:08.674Z - normal: Compiled project javascript file successfully
+2021-02-03T15:38:54.471Z - normal: Compiled project javascript file successfully
+2021-02-03T15:40:35.982Z - normal: Compiled project javascript file successfully
+2021-02-03T15:41:00.015Z - normal: Compiled project javascript file successfully
+2021-02-03T15:42:23.022Z - normal: Compiled project javascript file successfully
+2021-02-03T15:46:45.203Z - normal: Compiled project javascript file successfully
+2021-02-03T15:46:49.767Z - normal: Compiled project javascript file successfully
+2021-02-03T15:47:29.549Z - normal: Compiled project javascript file successfully
+2021-02-03T15:49:49.740Z - normal: Compiled project javascript file successfully
+2021-02-03T15:50:22.078Z - normal: Compiled project javascript file successfully
+2021-02-03T15:57:05.984Z - info: shutdown preview server
